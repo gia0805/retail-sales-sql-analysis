@@ -40,5 +40,9 @@ Key fields:
 - 'queries.sql' – SQL queries used for analysis  
 - 'insights.md' – Summary of analytical findings
 
+## 📄 Case Study
+A detailed walkthrough of the analysis is available here:
+
+**[Retail Sales SQL Case Study (PDF)](Retail_Sales_SQL_Case_Study.pdf)**
 
 
