@@ -39,6 +39,7 @@ Key fields:
 ## Files
 - 'queries.sql' – SQL queries used for analysis  
 - 'insights.md' – Summary of analytical findings
+- 'retail_sales_dataset.csv' – Source dataset
 
 ## 📄 Case Study
 A detailed walkthrough of the analysis is available here:
