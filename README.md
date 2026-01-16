@@ -8,7 +8,7 @@ This project uses SQL to analyze retail sales data and identify trends in revenu
 - DBeaver
 
 ## Dataset
-Source: Kaggle Retail Sales Dataset  
+Source: Kaggle - Retail Sales Dataset  
 Table used: 'sales'
 
 Key fields:
